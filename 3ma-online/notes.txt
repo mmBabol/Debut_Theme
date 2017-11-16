@@ -1,0 +1,8 @@
+theme --help
+
+    theme download - downloads one or all of the theme files
+    theme watch - watch directory for changes and update remote theme
+
+Collection Images
+    <img src="{{ collection | img_url: 'original' }}"  alt="{{ collection.title | escape }}" display="block" width="auto" />
+    Image sizes: original, large, medium, small
