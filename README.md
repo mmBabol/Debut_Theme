@@ -1,2 +1,4 @@
 # Debut_Theme
-Modified Debut theme for a shopify store
+
+This is a modified Debut theme for shopify. 
+     
